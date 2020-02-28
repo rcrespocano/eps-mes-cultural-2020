@@ -1,0 +1,2 @@
+
+Este es el archivo creado por Alberto, del curso de git
